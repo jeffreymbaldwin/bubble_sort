@@ -4,7 +4,7 @@
 A Ruby method that takes an array an arranges the values in order from smallest to largest. 
 
 ## Purpose
-This is a practice assignment from The Odin Project.
+This is a practice assignment from The Odin Project. It focuses on:
 
 ## How to Run
 1. ruby -v
@@ -13,7 +13,21 @@ This is a practice assignment from The Odin Project.
 
 ## Usage
 
+Inside `bubble_sort.rb` you can modify the `array` to sort your own values. After the values, run:
+
+```ruby 
+ruby substring.rb
+```
+
 ## Example Output
+Using the inputs:
+
+`array = [4,3,78,2,0,2]`
+
+The outputs will be:
+
+`[0, 2, 2, 3, 4, 78]`
+
 
 ## Reflection
 I was able to understand the mental map of this assingment pretty quickly. It felt similar to the substring project in terms of looping and comparing values. 
